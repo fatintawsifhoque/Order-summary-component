@@ -2,7 +2,7 @@
 
 A clean, responsive, and beautifully crafted **Order Summary** UI component built with **vanilla HTML and Tailwind CSS** —  pure frontend craftsmanship.
 
-> 🔗 **See it live!** → [View Live Demo](https://your-live-demo-link.com)  
+> 🔗 **See it live!** → [View Live Demo](https://order-summary-component-eta-two.vercel.app/)  
 > Click the link above to see the project running in your browser instantly!
 
 ---
